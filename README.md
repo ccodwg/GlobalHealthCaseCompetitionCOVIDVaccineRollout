@@ -9,10 +9,24 @@ To download all the datasets in this repository, click the big green "Code" butt
 The following datasets are included in this repository:
 
 * Cases by province (`cases_prov.csv`) and health region (`cases_hr.csv`)
+
+![daily_cases](https://user-images.githubusercontent.com/31170087/130306790-b8848a43-cae1-4bf4-a4ea-09eb19fd7865.png)
+
 * Mortality by province (`mortality_prov.csv`) and health region (`mortality_hr.csv`)
+
+![daily_mortality](https://user-images.githubusercontent.com/31170087/130306797-43cc34c9-cfcd-44b5-8233-e22f87ad5b37.png)
+
 * Tests completed by province (`tests_completed_prov.csv`)
+
+![daily_tests](https://user-images.githubusercontent.com/31170087/130306805-658ba4c8-f55b-4ecb-9ecc-6480298c5f3e.png)
+
 * Hospitalizations (ICU and non-ICU) by province (`hosp_prov.csv`)
+
+![hosp](https://user-images.githubusercontent.com/31170087/130306809-6d0179ad-88f0-4eb1-9f4e-3f1c481d053c.png)
+
 * ICU occupancy by province (`icu_prov.csv`)
+
+![icu](https://user-images.githubusercontent.com/31170087/130306815-814e2c9e-8df5-4897-adfe-1ad6769a43ba.png)
 
 With the exception of hospitalization and ICU numbers, both the cumulative values (`value`) and the daily differences (`value_daily`) are given for each date where data are available.
 
